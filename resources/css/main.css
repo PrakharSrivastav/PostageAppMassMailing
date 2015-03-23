@@ -1,0 +1,44 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+#login-div				{margin: auto;position: absolute;top: 25%; left: 0; bottom: 0; right: 0;}
+input.form-control , 
+button.btn, input.btn,
+textarea.form-control,
+select.form-control,.panel 	{border-radius: 0;}
+#login_form				{padding : 20px;background:#CCCCCC;}
+#sidebar				{min-height: 740px;background:#999999;padding:0px;}
+.header					{background:#222222}
+#logout 				{padding:5px;margin:10px 2px 0px 5px;}
+.graphs					{font-size: 10px;}
+.progress				{height:10px}
+
+
+
+@media (max-width: 500px) {
+	
+}
+@media (max-width: 767px) {
+	#sidebar		{min-height:auto;}
+}
+@media (max-width: 992px){
+	
+}
+@media (max-width: 1200px) {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
